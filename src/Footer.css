@@ -1,0 +1,30 @@
+.border{
+    border: 2px solid #FFFFFF;
+transform: rotate(90deg);
+
+/* position: absolute; */
+width: 140px;
+height: 0px;
+position: relative;
+/* top: 5.5em; */
+}
+.list {
+    font-family: 'Poppins', sans-serif!important;
+    font-size: 17px!important;
+}
+.insta:hover{
+    color: rgb(204, 73, 95);
+    transform: scale(1.6);
+}
+.insta,.fb,.link{
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+}
+.fb:hover{
+    color: rgb(73, 106, 204);
+    transform: scale(1.6);
+}
+.link:hover{
+    color: rgb(73, 106, 204);
+    transform: scale(1.6);
+}

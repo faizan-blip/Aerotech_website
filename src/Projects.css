@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada&display=swap');
+
+.h1{
+color: white!important;
+font-family: 'Montserrat Subrayada', sans-serif;
+font-size: 100px;
+margin-left: 1em;
+background: linear-gradient(90deg, #252525 3.28%, #8F8D8D 95.95%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+opacity: 0.8;
+}
